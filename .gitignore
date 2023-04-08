@@ -1,0 +1,8 @@
+dist
+node_modules
+build
+client_dist
+.vscode
+.idea
+.DS_Store
+.env
